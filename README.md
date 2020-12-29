@@ -1,6 +1,6 @@
 # Hello World, I'm Sajal 👋
 
-I am a Java developer working with Spring Framework
+I am a Java developer working with Spring Framework and Python
 
 ![Sajal's github stats](https://github-readme-stats.vercel.app/api?username=sajalbain&count_private=true&show_icons=true&hide_border=true&text_color=212E46&icon_color=3C5480&title_color=0B3480)
 
