@@ -1,5 +1,15 @@
 # Hello World, I'm Sajal 👋
 
+I am a Java developer working with Spring Framework
+
+![Sajal's github stats](https://github-readme-stats.vercel.app/api?username=sajalbain&count_private=true&show_icons=true&hide_border=true&text_color=212E46&icon_color=3C5480&title_color=0B3480)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajalbain&count_private=true&show_icons=true&hide_border=true&text_color=212E46&icon_color=3C5480&title_color=0B3480)
+
+## Find me on the web 🌎:<img align="left" width="150" height="150" src="https://media.giphy.com/media/MF0Gm9Dla7yWoKeXrM/giphy.gif">
+  - For collaboration mail me in [sajalkumar.bain@gmail.com](mailto:sajalkumar.bain@gmail.com)
+  - Twitter Handle [virusdata08](https://twitter.com/virusdata08)
+  - [Follow me on Github](https://github.com/sajalbain)
 <!--
 **sajalbain/sajalbain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
